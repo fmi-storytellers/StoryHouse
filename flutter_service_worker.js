@@ -3,12 +3,17 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "133e0677ca402a6dca6dcff46437a484",
+  "assets/AssetManifest.json": "7b8b62fcbed26872bb8c858529350773",
 "assets/assets/images/buttonData.png": "d940087a78663fd16d99b7a0031715fd",
 "assets/assets/images/creatingText1.png": "37e7dda6fee25b8aec7617cf23179c41",
 "assets/assets/images/currentPageArg.png": "aa77866645f4b118969d7c74593ddac8",
+"assets/assets/images/dataModel.png": "f80df22a4d377cc77500886ee6881394",
 "assets/assets/images/diffPadding.png": "04ae01508c60fda001c2f23a1c0cc78c",
+"assets/assets/images/exampleStep1.png": "e28fe13cd7cc141699156f72aa6e906e",
+"assets/assets/images/exampleStep2.png": "8bb3785f994357fce470743d29f5008a",
+"assets/assets/images/exampleStep3.png": "4a9cf3cb99310579339e06025265e902",
 "assets/assets/images/fileStructure_Annotated.png": "6da7a514e65863554f92b03a44afca0f",
+"assets/assets/images/fruitStoreExample.png": "c3447e1053111fe71881c76aff541f91",
 "assets/assets/images/headerDemo.png": "486a7b0c52bfc44fb7a3ee540b348bee",
 "assets/assets/images/iconButton.png": "17d7b5dc74e09f7306ee45a1cafb0230",
 "assets/assets/images/IDEInfo.png": "2688146222745f20e8cc4f06150504cc",
@@ -18,6 +23,7 @@ const RESOURCES = {
 "assets/assets/images/mediumBookImage.png": "ef286b28b19146ebdf08d6257b4683f8",
 "assets/assets/images/mediumProfileImage.png": "1bf804d3a1edadcd87bd1d840525fc0c",
 "assets/assets/images/pageStructure.png": "5dd37cd588ee73e454ce175b916c27d1",
+"assets/assets/images/providerModel.png": "924a5df60e0be487d3523cfb7bab230b",
 "assets/assets/images/smallBookImage.png": "10f6675d13499fc77a768968a3897ac4",
 "assets/assets/images/smallProfileImage.png": "005331561491d90df8713a99e900e66f",
 "assets/assets/images/textButton1.png": "de1fc0716dbae1c57a251c74d7112c8e",
@@ -31,9 +37,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "3410d2b07088a4196e1e36faecdfbc1b",
-"/": "3410d2b07088a4196e1e36faecdfbc1b",
-"main.dart.js": "f1cc5f74713d2008a2afb76f8e38ea27",
+"index.html": "d42db1ed3f41727a9f37d3ed568009e1",
+"/": "d42db1ed3f41727a9f37d3ed568009e1",
+"main.dart.js": "672b35974aa1966d7b9bc080dd8cdfdc",
 "manifest.json": "de7ec410dabb8ea54e924e3cf9163bb8",
 "version.json": "945521170611c40c1e00601d2b72396c"
 };
