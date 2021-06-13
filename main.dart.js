@@ -71174,7 +71174,7 @@ p=$.arT()
 p=B.bn(p,"Password","Enter password.",1,e,g?1:2.5,!0,B.bs())
 if(b.e)o=i
 else{o=Y.C(e,1)
-o=new T.f(new V.n(0,o,0,0),K.ar(" ",C.e,C.k,C.t,"DF7066",e,g?1:2.5),i)}n=Y.C(e,2)
+o=new T.f(new V.n(0,o,0,0),K.ar("Invalid login details!",C.e,C.k,C.t,"DF7066",e,g?1:2.5),i)}n=Y.C(e,2)
 m=g?Y.m(e,0.9):Y.m(e,3)
 m=Q.aF("Sign in",new S.a43(a,b),"FFFFFF","E38346",m,C.e,C.r,10,5,20,10,10,50,10,50,10,5,16,!0,!1)
 l=Y.C(e,2)
